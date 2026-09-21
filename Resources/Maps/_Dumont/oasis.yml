@@ -141164,7 +141164,7 @@ entities:
     - type: Transform
       parent: 2
       pos: -46.551716,-18.419298
-- proto: ImpCoffeeMachineEmpty
+- proto: ImpCoffeeMachine
   entities:
   - uid: 16327
     components:

@@ -54455,7 +54455,7 @@ entities:
       parent: 2
       rot: 3.141592653589793 rad
       pos: 9.5,-2.5
-- proto: ImpCoffeeMachineEmpty
+- proto: ImpCoffeeMachine
   entities:
   - uid: 4685
     components:
