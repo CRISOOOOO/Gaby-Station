@@ -57,7 +57,7 @@
   copyright: "Modified from reinforced.png by github user @Flareguy"
   source: "https://github.com/space-wizards/space-station-14/pull/18676"
 
-- files: ["asteroid_plating.png", snow_plating.png"]
+- files: ["asteroid_plating.png", "snow_plating.png"]
   license: "CC-BY-SA-3.0"
   copyright: "TGstation at https://github.com/tgstation/tgstation/blob/master/icons/turf/floors.dmi"
   source: "https://github.com/tgstation/tgstation"
