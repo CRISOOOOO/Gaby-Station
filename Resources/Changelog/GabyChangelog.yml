@@ -4211,3 +4211,9 @@ Entries:
         aceita o tipo de item dele.
   id: 501
   time: '2026-09-29T10:29:47.0000000+00:00'
+- author: CRISO
+  changes:
+    - type: Add
+      message: Adicionado diversos decalques novos.
+  id: 502
+  time: '2026-09-29T21:15:35.0000000+00:00'
