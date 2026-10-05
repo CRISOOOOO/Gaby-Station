@@ -4255,3 +4255,51 @@ Entries:
       message: Corrigido monitor de coordenadas de mão .
   id: 508
   time: '2026-10-03T15:32:31.0000000+00:00'
+- author: Lucasalemao10
+  changes:
+    - type: Add
+      message: Goob merge até 08/06, verifique as mudanças do goob! (de novo)
+  id: 509
+  time: '2026-10-04T18:57:30.0000000+00:00'
+- author: Dreykor
+  changes:
+    - type: Remove
+      message: Wraith foram desativados temporáriamente.
+  id: 510
+  time: '2026-10-04T19:00:03.0000000+00:00'
+- author: Struater
+  changes:
+    - type: Add
+      message: >-
+        Créditos de fim de rodada no estilo de filme, com elenco, antagonistas e
+        últimas palavras.
+  id: 511
+  time: '2026-10-04T19:15:34.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Add
+      message: Lei espacial 2.0!
+    - type: Add
+      message: Alerta Âmbar. Substitui o alerta vermelho atual.
+    - type: Tweak
+      message: Alerta vermelho agora é um meio termo entre gamma e âmbar.
+  id: 512
+  time: '2026-10-04T19:43:42.0000000+00:00'
+- author: Will-Oliver-Br
+  changes:
+    - type: Add
+      message: >-
+        Agora você pode agarrar em objetos ancorados caso seja pego pelo vento
+        espacial.
+    - type: Tweak
+      message: O vento espacial foi retrabalhado.
+  id: 513
+  time: '2026-10-04T19:51:24.0000000+00:00'
+- author: CRISOOOOO
+  changes:
+    - type: Add
+      message: TramStation está de volta na rotação e atualizado!
+    - type: Tweak
+      message: As estações Origin e Eclipse foram atualizadas para os conteúdos atuais.
+  id: 514
+  time: '2026-10-04T20:44:17.0000000+00:00'
