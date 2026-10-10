@@ -96,3 +96,9 @@
   - type: GuideHelp
     guides:
     - Chef
+  - type: Climbable
+  - type: Bonkable
+    bonkDamage:
+      types:
+        Blunt: 8
+    bonkTime: 3
