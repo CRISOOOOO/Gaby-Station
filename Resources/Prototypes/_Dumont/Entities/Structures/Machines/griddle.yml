@@ -42,7 +42,7 @@
       - Temperature
   - type: PlaceableSurface
   - type: Machine
-    board: ElectricGrillMachineCircuitboard
+    board: GriddleMachineCircuitboard
   - type: Appearance
   - type: GenericVisualizer
     visuals:
