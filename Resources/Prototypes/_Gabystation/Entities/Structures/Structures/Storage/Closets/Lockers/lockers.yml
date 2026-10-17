@@ -18,6 +18,7 @@
       visible: false
       map: ["enum.WeldableLayers.BaseWelded"]
     - state: locked
+      shader: unshaded
       map: ["enum.LockVisualLayers.Lock"]
   - type: EntityStorageVisuals
     stateBaseClosed: genetics
@@ -32,5 +33,3 @@
   - type: ConditionalSpawner
     prototypes:
     - UniqueMarkerGeneticist
-  
-
