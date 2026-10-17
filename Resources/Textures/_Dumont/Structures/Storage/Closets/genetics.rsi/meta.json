@@ -18,6 +18,9 @@
         },
 		{
             "name": "locked"
+        },
+		{
+            "name": "welded"
         }
     ]
 }
