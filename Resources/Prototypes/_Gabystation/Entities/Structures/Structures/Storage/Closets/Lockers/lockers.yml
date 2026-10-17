@@ -5,6 +5,13 @@
   components:
   - type: AccessReader
     access: [["Genetics"]] # Dumont edit
+  - type: Appearance
+  - type: Sprite
+    sprite: _Dumont/Structures/Storage/Closets/genetics.rsi
+  - type: EntityStorageVisuals
+    stateBaseClosed: genetics
+    stateDoorOpen: genetics_door_open
+    stateDoorClosed: genetics_door
 
 - type: entity
   id: UniqueLockerGeneticistFilled
@@ -14,4 +21,5 @@
   - type: ConditionalSpawner
     prototypes:
     - UniqueMarkerGeneticist
+  
 
