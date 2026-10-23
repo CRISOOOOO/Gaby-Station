@@ -4556,3 +4556,39 @@ Entries:
       message: Daengatis agora podem ingerir carne crua e sangue.
   id: 539
   time: '2026-10-16T22:41:13.0000000+00:00'
+- author: Struater
+  changes:
+    - type: Tweak
+      message: >-
+        As cápsulas de fuga agora pousam em um planeta com uma dungeon e seus
+        inimigos, em vez de ir para a CentCom.
+    - type: Tweak
+      message: O objetivo do Ninja de sobreviver foi alterado para uma Extração.
+    - type: Add
+      message: Cápsulas de fuga agora possuem limite de capacidade.
+  id: 540
+  time: '2026-10-17T01:23:33.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Fix
+      message: Borgs conseguem pegar aço.
+  id: 541
+  time: '2026-10-17T18:53:57.0000000+00:00'
+- author: TheRealHeartbeat
+  changes:
+    - type: Add
+      message: Cloth footwrap aos calçados civis.
+  id: 542
+  time: '2026-10-19T22:57:48.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Tweak
+      message: Rádio de sec é um pouco mais claro agora.
+  id: 543
+  time: '2026-10-20T20:22:17.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Fix
+      message: Soldado Experimental em bitrunning pode ser selecionado denovo.
+  id: 544
+  time: '2026-10-21T20:12:01.0000000+00:00'
