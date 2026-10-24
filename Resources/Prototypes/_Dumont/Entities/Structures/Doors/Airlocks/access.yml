@@ -87,6 +87,15 @@
   - type: Wires
     layoutId: AirlockSecurity
 
+- type: entity
+  parent: HighSecDoor
+  id: HighSecSecurityLocked
+  suffix: Security, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsSecurity ]
+
 # Service
 - type: entity
   parent: AirlockLibrary
