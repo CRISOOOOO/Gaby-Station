@@ -26,7 +26,7 @@
   description: Used to pilot the labor shuttle to and from the labor camp.
   components:
   - type: DockingConsole
-    windowTitle: mining-console-window-title
+    windowTitle: labor-console-window-title
     shuttleWhitelist:
       components:
       - LaborShuttle
@@ -42,7 +42,7 @@
   description: Used to pilot the civilian shuttle to and from the lavaland.
   components:
   - type: DockingConsole
-    windowTitle: mining-console-window-title
+    windowTitle: civilian-console-window-title
     shuttleWhitelist:
       components:
       - CivilianShuttle
