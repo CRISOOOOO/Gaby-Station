@@ -90,3 +90,9 @@
   components:
   - type: AccessReader
     access: [["Library"]]
+
+# Civilian
+- type: entity
+  parent: DoorElectronics
+  id: DoorElectronicsCivilian
+  suffix: Civilian

@@ -47,3 +47,30 @@
     - type: IFF
       flags:
       - HideLabel
+
+# this goes on lavaland, unlimited
+- type: entity
+  parent: AirlockGlassShuttle
+  id: AirlockExternalGlassShuttleCivilian
+  suffix: External, Civilian, Glass, Docking, Locked
+  components:
+  - type: PriorityDock
+    tag: DockCivilian
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsCivilian ]
+
+# 1 per map, this spawns the civilian lavaland shuttle
+- type: entity
+  parent: AirlockExternalGlassShuttleCivilian
+  id: AirlockExternalGlassShuttleCivilianFilled
+  suffix: Civilian, Filled, Locked
+  components:
+  - type: PriorityDock
+    tag: DockCivilian
+  - type: GridFill
+    path: /Maps/_Dumont/Shuttles/civilian.yml
+    addComponents:
+    - type: IFF
+      flags:
+      - HideLabel

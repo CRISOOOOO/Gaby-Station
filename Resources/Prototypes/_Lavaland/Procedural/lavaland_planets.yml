@@ -55,6 +55,7 @@
       components:
       - MiningShuttle
       - LaborShuttle
+      - CivilianShuttle
   - type: WeatherScheduler # Regular ash storms
     stages:
     - duration: # 10-15 minutes of calm

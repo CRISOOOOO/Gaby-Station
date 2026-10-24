@@ -34,3 +34,17 @@
     board: LavalandLaborConsoleCircuitboard
   - type: AccessReader
     access: [["Security"]]
+
+- type: entity
+  parent: BaseComputerDocking
+  id: ComputerShuttleCivilianLavaland
+  name: civilian shuttle console
+  description: Used to pilot the civilian shuttle to and from the lavaland.
+  components:
+  - type: DockingConsole
+    windowTitle: mining-console-window-title
+    shuttleWhitelist:
+      components:
+      - CivilianShuttle
+  - type: Computer
+    board: LavalandCivilianConsoleCircuitboard
