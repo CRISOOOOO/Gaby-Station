@@ -85,6 +85,9 @@
   id: DockCivilian
 
 - type: Tag
+  id: KitchenOven
+  
+- type: Tag
   id: PlasmamanSafeOther
 
 - type: Tag
