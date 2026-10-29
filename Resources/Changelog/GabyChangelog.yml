@@ -4784,3 +4784,15 @@ Entries:
       message: Genética azul.
   id: 566
   time: '2026-10-29T17:59:41.0000000+00:00'
+- author: CRISO
+  changes:
+    - type: Add
+      message: Labor Camp foi adicionado ao Outpost da Lavaland.
+    - type: Add
+      message: Nave civil da lavaland foi adicionado.
+    - type: Add
+      message: Nave de labor camp foi adicionado para a sec.
+    - type: Tweak
+      message: Outpost da Lavaland foi completamente refeito.
+  id: 567
+  time: '2026-10-29T18:02:06.0000000+00:00'
