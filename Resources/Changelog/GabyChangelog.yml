@@ -4716,3 +4716,37 @@ Entries:
       message: Travamento de arma em armas que não deveriam travar.
   id: 559
   time: '2026-10-29T17:22:50.0000000+00:00'
+- author: Will-Oliver-Br
+  changes:
+    - type: Add
+      message: Adicina uma barra de pesquisa na máquina de venda.
+    - type: Tweak
+      message: >-
+        Agora aperta a tecla enter, na máquina de venda, vai aparecer o último
+        código digitado.
+    - type: Fix
+      message: Agora container de liquido aparece preenchido na interface.
+  id: 560
+  time: '2026-10-29T17:28:20.0000000+00:00'
+- author: Will-Oliver-Br
+  changes:
+    - type: Tweak
+      message: Agora desligar máquinas respeita o acesso.
+    - type: Tweak
+      message: >-
+        Agora tecla de atalho para desligar máquinas só funciona em
+        computadores.
+    - type: Fix
+      message: >-
+        Agora o verbo de alternar energia não aparece duplicado em algumas
+        máquinas.
+  id: 561
+  time: '2026-10-29T17:28:53.0000000+00:00'
+- author: Will-Oliver-Br
+  changes:
+    - type: Tweak
+      message: Agora para fazer o emote em dupla tem que aperta a tecla duas vezes.
+    - type: Fix
+      message: Agora ipc e sintético podem fazer emote em dupla.
+  id: 562
+  time: '2026-10-29T17:29:11.0000000+00:00'
