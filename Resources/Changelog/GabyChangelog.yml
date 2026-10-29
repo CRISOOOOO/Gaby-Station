@@ -4672,3 +4672,29 @@ Entries:
       message: Cameras.
   id: 552
   time: '2026-10-28T21:42:05.0000000+00:00'
+- author: CRISO
+  changes:
+    - type: Add
+      message: 50 placas de bar novas foram adicionadas.
+  id: 553
+  time: '2026-10-29T17:14:40.0000000+00:00'
+- author: CRISO
+  changes:
+    - type: Tweak
+      message: Diversos casacos de inverno foram respritados.
+  id: 554
+  time: '2026-10-29T17:15:48.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Tweak
+      message: >-
+        Multihit de machete completamente removido, attack rate buffado para
+        compensar. Vocês sabem o que fizeram.
+  id: 555
+  time: '2026-10-29T17:17:15.0000000+00:00'
+- author: CRISO
+  changes:
+    - type: Tweak
+      message: Cargo agora é marrom.
+  id: 556
+  time: '2026-10-29T17:17:52.0000000+00:00'
