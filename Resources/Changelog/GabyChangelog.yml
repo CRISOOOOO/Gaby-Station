@@ -4698,3 +4698,21 @@ Entries:
       message: Cargo agora é marrom.
   id: 556
   time: '2026-10-29T17:17:52.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Remove
+      message: Devil.
+  id: 557
+  time: '2026-10-29T17:22:31.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Fix
+      message: Chameleon projector e morph.
+  id: 558
+  time: '2026-10-29T17:22:41.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Fix
+      message: Travamento de arma em armas que não deveriam travar.
+  id: 559
+  time: '2026-10-29T17:22:50.0000000+00:00'
