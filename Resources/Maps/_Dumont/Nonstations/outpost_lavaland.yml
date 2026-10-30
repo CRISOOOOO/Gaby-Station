@@ -474,7 +474,7 @@ entities:
             393: 7,-15
         - node:
             id: CheckerNESW
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             394: 11,-18
         - node:
@@ -533,7 +533,7 @@ entities:
             289: 3,2
         - node:
             id: CheckerNWSE
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             588: 35,2
         - node:
@@ -756,7 +756,7 @@ entities:
             391: 11,-15
         - node:
             id: FullTileOverlayGreyscale
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             576: 38,2
             577: 38,4
@@ -776,7 +776,7 @@ entities:
             609: 36,6
         - node:
             id: HalfTileOverlayGreyscale
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             587: 39,-2
         - node:
@@ -935,7 +935,7 @@ entities:
             915: -35,0
         - node:
             id: TrimlineFillCornerNe
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             633: 44,7
         - node:
@@ -960,7 +960,7 @@ entities:
             367: 19,-11
         - node:
             id: TrimlineFillCornerNw
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             571: 39,1
         - node:
@@ -971,7 +971,7 @@ entities:
             366: 22,-12
         - node:
             id: TrimlineFillCornerSe
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             634: 45,6
         - node:
@@ -1002,7 +1002,7 @@ entities:
             431: 8,-13
         - node:
             id: TrimlineFillE
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             552: 40,1
             553: 40,2
@@ -1086,7 +1086,7 @@ entities:
             921: -36,1
         - node:
             id: TrimlineFillN
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             451: 10,-19
             452: 11,-19
@@ -1133,7 +1133,7 @@ entities:
             912: -33,-1
         - node:
             id: TrimlineFillNe
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             446: 13,-19
             563: 40,9
@@ -1174,7 +1174,7 @@ entities:
             908: -37,1
         - node:
             id: TrimlineFillNw
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             445: 9,-19
             562: 39,9
@@ -1236,7 +1236,7 @@ entities:
             918: -36,-2
         - node:
             id: TrimlineFillS
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             454: 12,-20
             455: 11,-20
@@ -1284,7 +1284,7 @@ entities:
             913: -33,-2
         - node:
             id: TrimlineFillSe
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             448: 13,-20
             551: 40,0
@@ -1322,7 +1322,7 @@ entities:
             907: -37,-2
         - node:
             id: TrimlineFillSw
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             447: 9,-20
             542: 34,0
@@ -1359,7 +1359,7 @@ entities:
             920: -37,0
         - node:
             id: TrimlineFillW
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             564: 39,8
             565: 39,7
@@ -1408,7 +1408,7 @@ entities:
             434: 8,-14
         - node:
             id: TrimlineFillWarnS
-            color: '#A4610696'
+            color: '#7b4e2396'
           decals:
             387: 10,-17
             388: 11,-17
