@@ -4802,3 +4802,15 @@ Entries:
       message: Agora os itens do culto cosmico são contrabando especial.
   id: 568
   time: '2026-10-30T21:08:37.0000000+00:00'
+- author: joshepvodka
+  changes:
+    - type: Tweak
+      message: SMES se carregam sozinhos quando não houver um engenheiro na estação.
+  id: 569
+  time: '2026-10-30T21:11:20.0000000+00:00'
+- author: Heartbeat
+  changes:
+    - type: Tweak
+      message: 'Sprites de Vulp. '
+  id: 570
+  time: '2026-10-30T21:12:15.0000000+00:00'
