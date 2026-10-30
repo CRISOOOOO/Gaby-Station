@@ -4796,3 +4796,9 @@ Entries:
       message: Outpost da Lavaland foi completamente refeito.
   id: 567
   time: '2026-10-29T18:02:06.0000000+00:00'
+- author: Struater
+  changes:
+    - type: Tweak
+      message: Agora os itens do culto cosmico são contrabando especial.
+  id: 568
+  time: '2026-10-30T21:08:37.0000000+00:00'
