@@ -4814,3 +4814,15 @@ Entries:
       message: 'Sprites de Vulp. '
   id: 570
   time: '2026-10-30T21:12:15.0000000+00:00'
+- author: CRISO
+  changes:
+    - type: Add
+      message: >-
+        Nave de Transporte de Prisioneiros e Nave Civil da Lavaland foram
+        adicionadas nos mapas: Box, Gamma e Eclipse.
+    - type: Tweak
+      message: >-
+        Intercom de Prisão, Spawners extras da IA, Forno e Chapa foram
+        adicionados aos mapas.
+  id: 571
+  time: '2026-10-30T21:18:05.0000000+00:00'
