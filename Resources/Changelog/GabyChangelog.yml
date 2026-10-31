@@ -4826,3 +4826,9 @@ Entries:
         adicionados aos mapas.
   id: 571
   time: '2026-10-30T21:18:05.0000000+00:00'
+- author: GIZDCERA
+  changes:
+    - type: Add
+      message: Adicionados 55 discos de vinil com músicas já disponíveis na jukebox.
+  id: 572
+  time: '2026-10-31T01:38:30.0000000+00:00'
