@@ -1851,6 +1851,12 @@ entities:
             1: 15360
         chunkSize: 4
     - type: GasTileOverlay
+    - type: DeviceNetwork
+      deviceNetId: Wireless
+      configurators: []
+      deviceLists: []
+      transmitFrequencyId: ShuttleTimer
+    - type: NavMap
     - type: RadiationGridResistance
     - type: ChunkContainer
       chunkEntities: []
