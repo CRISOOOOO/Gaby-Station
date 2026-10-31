@@ -4832,3 +4832,9 @@ Entries:
       message: Adicionados 55 discos de vinil com músicas já disponíveis na jukebox.
   id: 572
   time: '2026-10-31T01:38:30.0000000+00:00'
+- author: S34N, CRISO
+  changes:
+    - type: Add
+      message: Nova estação med-pop foi adicionada à rotação, Farragus.
+  id: 573
+  time: '2026-10-31T01:57:32.0000000+00:00'
