@@ -4838,3 +4838,9 @@ Entries:
       message: Nova estação med-pop foi adicionada à rotação, Farragus.
   id: 573
   time: '2026-10-31T01:57:32.0000000+00:00'
+- author: Kion
+  changes:
+    - type: Add
+      message: Adiciona novas músicas a Jukebox e ao Lobby
+  id: 574
+  time: '2026-10-31T14:11:15.0000000+00:00'
